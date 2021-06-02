@@ -12,6 +12,5 @@ def is_merge(s, part1, part2):
 
     return True if len(sting) == len(s) else False
 
-
 print("Halelya")
 print(is_merge('codewars', 'code', 'wasr'))
